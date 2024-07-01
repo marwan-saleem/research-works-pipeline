@@ -1,0 +1,18 @@
+# environment file
+*.env 
+
+# YAML configurations
+*.yaml
+
+# airflow logs
+logs/*
+
+
+# python notebooks
+*.ipynb
+
+# python notebook checkpoints
+/.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
